@@ -1,2 +1,2 @@
 # ThePersonClass
-Demonstration of OOP class structural knowledge
+Demonstration of Object Oriented Programming through inheritance
